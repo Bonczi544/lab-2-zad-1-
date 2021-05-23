@@ -1,0 +1,18 @@
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\bin\Debug\net5.0-windows\lab 2 zad 1.exe
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\bin\Debug\net5.0-windows\lab 2 zad 1.deps.json
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\bin\Debug\net5.0-windows\lab 2 zad 1.runtimeconfig.json
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\bin\Debug\net5.0-windows\lab 2 zad 1.runtimeconfig.dev.json
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\bin\Debug\net5.0-windows\lab 2 zad 1.dll
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\bin\Debug\net5.0-windows\ref\lab 2 zad 1.dll
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\bin\Debug\net5.0-windows\lab 2 zad 1.pdb
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\obj\Debug\net5.0-windows\lab 2 zad 1.csprojAssemblyReference.cache
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\obj\Debug\net5.0-windows\lab_2_zad_1.Form1.resources
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\obj\Debug\net5.0-windows\lab 2 zad 1.csproj.GenerateResource.cache
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\obj\Debug\net5.0-windows\lab 2 zad 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\obj\Debug\net5.0-windows\lab 2 zad 1.AssemblyInfoInputs.cache
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\obj\Debug\net5.0-windows\lab 2 zad 1.AssemblyInfo.cs
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\obj\Debug\net5.0-windows\lab 2 zad 1.csproj.CoreCompileInputs.cache
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\obj\Debug\net5.0-windows\lab 2 zad 1.dll
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\obj\Debug\net5.0-windows\ref\lab 2 zad 1.dll
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\obj\Debug\net5.0-windows\lab 2 zad 1.pdb
+C:\Users\Bonczi\source\repos\lab 2\lab 2 zad 1\lab 2 zad 1\obj\Debug\net5.0-windows\lab 2 zad 1.genruntimeconfig.cache
